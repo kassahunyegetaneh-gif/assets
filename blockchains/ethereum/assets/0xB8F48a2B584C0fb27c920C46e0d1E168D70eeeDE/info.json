@@ -1,0 +1,9 @@
+{
+  "name": "Phila Forex Trading",
+  "symbol": "PFX",
+  "decimals": 18,
+  "description": "Phila Forex Trading (PFX) is an ERC-20 token on the Ethereum Sepolia testnet.",
+  "website": "",
+  "explorer": "https://sepolia.etherscan.io/token/0xB8F48a2B584C0fb27c920C46e0d1E168D70eeeDE",
+  "type": "ERC20"
+}
